@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @wantJoy1
-- 👀 I’m interested in Servo.
-- 🌱 I’m currently learning Scala, Rust.
-- 💞️ I’m looking to collaborate on Null
-- 📫 How to reach me 
+I like Scala, Rust and Ruby
 
 <!---
 wantJoy1/wantJoy1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
